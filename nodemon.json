@@ -1,0 +1,4 @@
+{
+    "watch": ["nodeserver.js"],
+    "ext": "js,json"
+}
